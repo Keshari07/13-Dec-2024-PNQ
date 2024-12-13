@@ -1,9 +1,8 @@
-                                                         # 13-Dec-2024-PNQ
 # Awesome Kubernetes
 
 A curated list for awesome kubernetes projects and tools and resources
 
-Inspired by [@Keshari07' awesome](https://github.com/Keshari07/awesome)
+Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 
 ### Symbols
 ![cncf](media/cncf_symbol.png) - This is a [CNCF Project](https://www.cncf.io/projects/)
